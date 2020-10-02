@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825899462830",
+    "firebase_url": "https://portfolio-1e8b1.firebaseio.com",
+    "project_id": "portfolio-1e8b1",
+    "storage_bucket": "portfolio-1e8b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825899462830:android:e3533b0d3ae7496c6a7d3f",
+        "android_client_info": {
+          "package_name": "com.aarogan.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825899462830-pqfq4p5hg98qnnsic9jk3349e5t3ks03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCky7F9IrgwvJdv7g2aVdVEP7mziXlIrBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825899462830-pqfq4p5hg98qnnsic9jk3349e5t3ks03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
