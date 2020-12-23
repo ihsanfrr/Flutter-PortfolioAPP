@@ -1,4 +1,4 @@
-##ReadMe Please
+## ReadMe Please
 
 Jika ada banyak yang perlu ditanyakn kamu bisa hubungi aku lewat email/whatsapp yang tertera dalam file cv.pdf dan kamu bisa download aplikasi portfolio aku di => https://bit.ly/ihsanfrr
 
